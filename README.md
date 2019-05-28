@@ -1,3 +1,7 @@
 # DQN_FOR_CartPole-v0
-Implementation of DQN algorithm using Python and Tensorflow,
-game_CartPole_train.py is the implemention of DQN,test on gym CartPole-v0
+Tensorflow implementation of DQN(deep Q Learning Neural Networks) algorithm
+
+This is an implementation of basic DQN algorithm to play the game:"CartPole-v0".
+You can Change code to play other OpenAi Gym games.
+You can also Optimize this algorithm.
+If you want to exchange ideas with me，you can add me to WeChat:zggcdbd.
